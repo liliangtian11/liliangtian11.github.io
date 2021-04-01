@@ -6,11 +6,11 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "Shang Hai-CHN"
+locale                   : "SH-CN"
 title                    : "Liang LI / 李 靓"
 title_separator          : "-"
 name                     : &name "Liang LI"
-description              : &description "Liang LI"
+description              : &description "Liang LI's homepage"
 url                      : https://liliangtian11.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "liliangtian11/liliangtian11.github.io"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Liang LI"
   avatar           : "doggy.jpg"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "M.A., International Relations, Fudan University"
   location         : "Yangpu, Shanghai"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
