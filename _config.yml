@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "SH-CN"
-title                    : "Liang LI / 李 靓"
+locale                   : "HOU,TX,US"
+title                    : "Li, Liang / 李 靓"
 title_separator          : "-"
 name                     : &name "Liang LI"
 description              : &description "Liang LI's homepage"
