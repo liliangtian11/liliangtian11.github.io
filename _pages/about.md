@@ -8,7 +8,7 @@ redirect_from:
   - /home.html
 ---
 
-I am a doctoral student in the [Department of Political Science at the University of Houston][5], specializing in Comparative Politics and Research Methods. My research focuses on elite interactions and conflicts, political institutions, and economic performance in authoritarian politics. I received my Master's degree in International Relations at [School of International Relations and Public Affairs][1] at [Fudan University][2] in Shanghai and my bachelor's degree in Political Science and Administration in [Political Science and Public Administration][3] at [Southwest University of Political Science and Law][4] in Chongqing, China.
+I am a doctoral student in the [Department of Political Science at the University of Houston][5], specializing in Comparative Politics and Research Methods. My research focuses on elite interactions and conflicts, political institutions, and economic performance in authoritarian politics. I received my Master's degree in International Relations at [School of International Relations and Public Affairs][1] at [Fudan University][2] in Shanghai and my bachelor's degree in Political Science and Administration in [School of Political Science and Public Administration][3] at [Southwest University of Political Science and Law][4] in Chongqing, China.
 
 
 
