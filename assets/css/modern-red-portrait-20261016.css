@@ -6,4 +6,4 @@
 
 .research-overview{max-width:850px;font-size:17px;color:var(--muted);margin-bottom:32px}.research-overview p{margin-bottom:18px}
 
-.hero-aside{margin-top:0}.profile-photo{display:block;width:100%;max-width:260px;aspect-ratio:4/5;object-fit:cover;border-radius:4px;margin:0 0 28px}@media(max-width:800px){.profile-photo{max-width:240px}}
+.hero-aside{margin-top:0}.profile-photo{display:block;width:100%;height:auto;max-width:260px;aspect-ratio:4/5;object-fit:cover;border-radius:4px;margin:0 0 28px}@media(max-width:800px){.profile-photo{max-width:240px}}
