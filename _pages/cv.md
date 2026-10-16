@@ -6,4 +6,4 @@ redirect_from:
   - /resume
 ---
 
-<div class="page-title"><p class="eyebrow">Curriculum vitae</p><h1>CV</h1></div><div class="cv-panel"><div><h2>Li, Liang</h2><p>Family name: Li; given name: Liang<br>Pronounced lee lyahng.</p><p>Updated October 16, 2026 · PDF</p></div><a class="button" href="/files/Li_cv.pdf">Download CV ↗</a></div>
+<div class="page-title"><p class="eyebrow">Curriculum vitae</p><h1>CV</h1></div><div class="cv-panel"><div><h2>Li, Liang</h2><p>Pronounced lee lyahng.</p><p>Updated October 16, 2026 · PDF</p></div><a class="button" href="/files/Li_cv.pdf">Download CV ↗</a></div>
