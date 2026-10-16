@@ -1,22 +1,11 @@
 ---
+layout: modern
+title: "About"
 permalink: /
-title: "Home"
-excerpt: "About me"
-author_profile: true
-redirect_from: 
+redirect_from:
   - /Home/
   - /home.html
 ---
 
-I am a doctoral student in the [Department of Political Science][5] at the University of Houston, specializing in Comparative Politics and Research Methods. My research focuses on elite interactions and conflicts, political institutions, and economic performance in authoritarian politics. I received my Master's degree in International Relations at [School of International Relations and Public Affairs][1] at [Fudan University][2] in Shanghai and my bachelor's degree in Political Science and Administration in [School of Political Science and Public Administration][3] at [Southwest University of Political Science and Law][4] in Chongqing, China.
-
-
-
-
-
-[1]:<https://sirpa.fudan.edu.cn/>
-[2]:<https://www.fudan.edu.cn/> 
-[3]:<https://appa.swupl.edu.cn/zzxy.htm>
-[4]:<https://www.swupl.edu.cn/> 
-[5]:<https://www.uh.edu/class/political-science/>
-
+<section class="hero"><div><p class="eyebrow">Political Science · University of Houston</p><h1>Liang Li</h1><div class="intro"><p>I am a Ph.D. student in political science at the University of Houston, specializing in comparative politics and research methods.</p><p>My research examines authoritarian politics, elite conflict, ethnic politics, and democratic support, with a focus on Africa and China.</p></div><div class="actions"><a class="button" href="/research/">Explore my research</a><a class="text-link" href="/files/Li_cv.pdf">Download CV ↗</a></div></div><aside class="hero-aside"><p class="aside-label">Research interests</p><ul class="focus-list"><li>Authoritarian rule &amp; elite politics</li><li>Coups &amp; power sharing</li><li>Ethnicity &amp; democratic support</li><li>State building &amp; political institutions</li></ul><p class="aside-label">Contact</p><a href="mailto:lli65@uh.edu">lli65@uh.edu</a><p>Department of Political Science<br>University of Houston<br>Houston, Texas</p></aside></section>
+<section class="section"><div class="section-heading"><h2>Selected research</h2><a class="text-link" href="/research/">All projects →</a></div><div class="paper-grid"><article class="paper"><p class="status">Under review</p><h3>Early-Tenure Failed Coups and Personalization: What Leads to the Erosion of Power Sharing in Authoritarian Regimes?</h3><p class="paper-meta">Liang Li and Rui Tang</p></article><article class="paper"><p class="status">Under review</p><h3>Identity-Based Proximity to Power and Selective Democratic Support: Presidential Co-Ethnic Category Membership in Sub-Saharan Africa</h3><p class="paper-meta">Liang Li and Rui Tang</p></article></div></section><section class="section"><h2>Education</h2><div class="education"><div><h3>University of Houston</h3><p>Ph.D. in Political Science<br>2023–Present</p></div><div><h3>Fudan University</h3><p>M.A. in International Relations<br>2018–2021</p></div><div><h3>Southwest University of Political Science and Law</h3><p>B.A. in Political Science and Public Administration<br>2012–2016</p></div></div></section><section class="section"><h2>Upcoming presentation</h2><p><strong>Southern Political Science Association · January 2027</strong><br>St. Pete Beach, Florida · Panel: Elections, Legitimacy, and Democratic Support</p><p class="small">Accepted presentation: “Identity-Based Proximity to Power and Selective Democratic Support: Presidential Co-Ethnicity in Sub-Saharan Africa.”</p></section>

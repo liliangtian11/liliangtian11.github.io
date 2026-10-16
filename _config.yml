@@ -6,10 +6,10 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "HOU,TX,US"
-title                    : "Li, Liang / 李 靓"
+locale                   : "en-US"
+title                    : "Liang Li | 李靓"
 title_separator          : "-"
-name                     : &name "Liang LI"
+name                     : &name "Liang Li"
 description              : &description "Li, Liang's homepage"
 url                      : https://liliangtian11.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "LI, Liang"
+  name             : "Liang Li"
   avatar           : "doggy.jpg"
   bio              : "Ph.D. Student, Political Science, University of Houston"
   location         : "Houston, TX, US"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "liliangtian11@gmail"
+  email            : "lli65@uh.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -255,7 +255,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Chicago # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
